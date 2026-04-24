@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jared Guerrero Moreno"
+title                    : "Jared Moreno"
 title_separator          : "-"
-name                     : &name "Jared Guerrero Moreno"
+name                     : &name "Jared Moreno"
 description              : &description "Jared's Personal Website"
 url                      : https://felipejared.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "felipejared/felipejared.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jared Guerrero Moreno"
+  name             : "Jared Moreno"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Computer Science Student"
+  bio              : "Machine Learning Engineer"
   location         : #"SCalifornia"
-  employer         : "Western Governors University"
+  employer         : "Scout Space"
   uri              : # URL
   email            : # "none@example.org" 
 
